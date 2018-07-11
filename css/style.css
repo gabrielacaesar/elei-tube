@@ -58,6 +58,8 @@ iframe {
 
 .row.container {
 	padding-left: 70px !important;
+	max-width: 100% !important;
+    	text-align: center;
 }
 
 .genderFilm {
